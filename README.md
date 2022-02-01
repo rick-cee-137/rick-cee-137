@@ -53,5 +53,3 @@ me.say_hi()
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ```![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
-

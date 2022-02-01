@@ -17,8 +17,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Tariq Mohamed"
-        self.role = "Software Engineer"
-        self.specializaiton = "Machine Learning"
+        self.role = "Machine Learning developer"
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
